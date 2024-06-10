@@ -1,1 +1,3 @@
 # auto_configurator
+
+O Auto Configurator é uma ferramenta projetada para simplificar o processo de reinstalação e reconfiguração após a reinstalação do sistema operacional. Ao automatizar tarefas como a instalação de aplicativos, criação de usuários e configuração de políticas do sistema, o Auto Configurator permite que os usuários restaurem rapidamente suas configurações personalizadas e instalem os aplicativos essenciais com facilidade, reduzindo o tempo e esforço necessários para restaurar um sistema operacional para um estado funcional.

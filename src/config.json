@@ -1,0 +1,27 @@
+{
+    "winget_apps": [
+        "Google.Chrome",
+        "Mozilla.Firefox",
+        "Microsoft.VisualStudioCode",
+        "Valve.Steam",
+        "Discord.Discord", 
+        "Guru3D.Afterburner",
+        "CPUID.CPU-Z",
+        "ALCPU.CoreTemp",
+        "7zip.7zip"
+
+    ],
+    "users": [
+        {   
+            "user_type": "admin",
+            "username": "user1",
+            "password": "1234"
+        },
+        {   
+            "user_type": "standard",
+            "username": "user2",
+            "password": "1234"
+        }
+    ],
+    "font_folder": "./font"
+}
