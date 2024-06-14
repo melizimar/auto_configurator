@@ -1,14 +1,14 @@
 {
-    "winget_apps": [
-        "Google.Chrome",
-        "Mozilla.Firefox",
-        "Microsoft.VisualStudioCode",
-        "Valve.Steam",
-        "Discord.Discord", 
-        "Guru3D.Afterburner",
-        "CPUID.CPU-Z",
-        "ALCPU.CoreTemp",
-        "7zip.7zip"
+    "apps": [
+        { "name": "Google.Chrome" },
+        { "name": "Mozilla.Firefox" },
+        { "name": "Microsoft.VisualStudioCode" },
+        { "name": "Valve.Steam" },
+        { "name": "Discord.Discord" },
+        { "name": "Guru3D.Afterburner" },
+        { "name": "CPUID.CPU-Z" },
+        { "name": "ALCPU.CoreTemp" },
+        { "name": "7zip.7zip }" }
 
     ],
     "users": [
@@ -22,6 +22,5 @@
             "username": "user2",
             "password": "1234"
         }
-    ],
-    "font_folder": "./font"
+    ]
 }

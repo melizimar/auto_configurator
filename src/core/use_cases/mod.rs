@@ -1,6 +1,6 @@
-pub mod create_user;
-pub mod install_application;
-pub mod install_fonts;
+pub mod application;
+pub mod user;
+
 
 use std::process::Command;
 
